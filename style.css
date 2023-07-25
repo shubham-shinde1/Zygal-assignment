@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#canvas {
+  border: 1px solid #000;
+  display: block;
+  margin: 20px auto;
+}
+
+#inputText,
+#colorPicker {
+  margin: 10px;
+}
+
+#downloadButton {
+  margin: 10px;
+}
